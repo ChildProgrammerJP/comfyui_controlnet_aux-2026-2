@@ -1,0 +1,29 @@
+importlib_metadata==8.7.1
+huggingface_hub== 0.36.0
+scipy==1.17.0
+opencv-python==4.13.0.90
+filelock==3.20.3
+numpy==2.2.6
+Pillow==12.1.0
+einops==0.8.2
+pyyaml==6.0.3
+scikit-image==0.26.0
+python-dateutil==2.9.0.post0
+mediapipe==0.10.32
+fvcore==0.1.5.post20221221
+yapf==0.43.0
+omegaconf==2.3.0
+ftfy==6.3.1
+addict==2.4.0
+yacs==0.1.8
+yapf==0.43.0
+trimesh[easy]==4.11.1
+albumentations==2.0.8
+scikit-learn==1.8.0
+matplotlib==3.10.8
+
+# torch
+# torchvision
+
+# RTX 5090：ComfyUI v0.9.2
+# pip==25.3
